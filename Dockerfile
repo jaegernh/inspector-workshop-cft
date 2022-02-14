@@ -1,4 +1,4 @@
-public.ecr.aws/aws-containers/ecsdemo-nodejs:latest
+FROM public.ecr.aws/aws-containers/ecsdemo-nodejs:latest
 
 WORKDIR /usr/src/app
 
