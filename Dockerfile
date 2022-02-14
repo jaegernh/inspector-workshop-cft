@@ -1,4 +1,4 @@
-FROM node:10
+public.ecr.aws/aws-containers/ecsdemo-nodejs:latest
 
 WORKDIR /usr/src/app
 
